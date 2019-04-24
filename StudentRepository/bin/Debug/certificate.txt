@@ -1,0 +1,70 @@
+﻿Certificate!
+Студент: Toshko Petrov Petkanov
+Факултет: fkst
+Специалност: ksi
+Успешно завърши курс: 0
+Статус: CERTIFIED
+
+Certificate!
+Студент: Aleksandar Petrov Todorov
+Факултет: fkst
+Специалност: ksi
+Успешно завърши курс: 4
+Статус: SEMESTERGRADUATE
+
+Certificate!
+Студент: Toshko Petrov Petkanov
+Факултет: fkst
+Специалност: ksi
+Успешно завърши курс: 0
+Статус: CERTIFIED
+
+Certificate!
+Студент: Aleksandar Petrov Todorov
+Факултет: fkst
+Специалност: ksi
+Успешно завърши курс: 4
+Статус: SEMESTERGRADUATE
+
+Certificate!
+Студент: Toshko Petrov Petkanov
+Факултет: fkst
+Специалност: ksi
+Успешно завърши курс: 1
+Статус: CERTIFIED
+
+Certificate!
+Студент: Aleksandar Petrov Todorov
+Факултет: fkst
+Специалност: ksi
+Успешно завърши курс: 4
+Статус: SEMESTERGRADUATE
+
+Certificate!
+Студент: Toshko Petrov Petkanov
+Факултет: fkst
+Специалност: ksi
+Успешно завърши курс: 1
+Статус: CERTIFIED
+
+Certificate!
+Студент: Aleksandar Petrov Todorov
+Факултет: fkst
+Специалност: ksi
+Успешно завърши курс: 4
+Статус: SEMESTERGRADUATE
+
+Certificate!
+Студент: Petko Petrov Georgiev
+Факултет: fkst
+Специалност: ksi
+Успешно завърши курс: 1
+Статус: CERTIFIED
+
+Certificate!
+Студент: Aleksandar Petrov Todorov
+Факултет: fkst
+Специалност: ksi
+Успешно завърши курс: 4
+Статус: SEMESTERGRADUATE
+
